@@ -1,0 +1,23 @@
+{
+    "creators": [
+        {
+            "name": "The Glottography Consortium"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "glottography"
+        }
+    ],
+    "title": "Glottography dataset derived from Queixalos and Renault-Lescure 2000 \"As l\u00ednguas amaz\u00f4nicas hoje\"",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Generic",
+        "linguistics"
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Queixalos, Francisco &amp; Odile Renault-Lescure. 2000. As l\u00ednguas amaz\u00f4nicas hoje. In  Queixal\u00f3s, Francisco and Renault-Lescure, Odile (eds.) S\u00e3o Paulo: IRD/Instituto Socioambiental/MPEG. 432pp.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}

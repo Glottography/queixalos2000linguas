@@ -148,10 +148,10 @@ saba1268,Sabanê,,-12.9857,-60.335,saba1268,,216,language,Nambiquaran,languages
 saki1248,Mekens,,-13.054,-62.0927,saki1248,,161,language,Tupian,languages
 sanu1240,Sanumá,,4.5,-64.5,sanu1240,,217,language,Yanomamic,languages
 sate1243,Sateré-Mawé,,-3.63897,-56.8749,sate1243,,218,language,Tupian,languages
-sech1236,Sechuran,,-5.568969,-80.828247,sech1236,,219,language,,languages
+seco1241,Secoya,,-0.459785,-75.5547,seco1241,,219,language,Tucanoan,languages
 shan1283,Shanenawa,,-8.00919,-73.3264,shan1283,,220,language,Pano-Tacanan,languages
 shar1245,Sharanahua,,-9.8626,-71.1232,shar1245,,221,language,Pano-Tacanan,languages
-ship1254,Shipibo-Conibo,,-7.17105,-74.8219,ship1254,,222,language,Pano-Tacanan,languages
+ship1254,Shipibo-Conibo,,-7.17105,-74.8219,ship1254,,222 223,language,Pano-Tacanan,languages
 sion1247,Siona-Tetete,,0.31733,-76.0237,sion1247,,226,language,Tucanoan,languages
 siri1273,Sirionó,,-15.5298,-63.9688,siri1273,,228,language,Tupian,languages
 siri1274,Siriano,,0.436515,-70.184,siri1274,,227 229,language,Tucanoan,languages
@@ -229,7 +229,7 @@ pano1259,Pano-Tacanan,,,,pano1259,,7 9 17 50 54 55 56 57 75 76 102 118 124 125 1
 peba1241,Peba-Yagua,,,,peba1241,,29 286 287,family,,families
 quec1387,Quechuan,,,,quec1387,,94 208 215,family,,families
 ticu1244,Ticuna-Yuri,,,,ticu1244,,244 245 246,family,,families
-tuca1253,Tucanoan,,,,tuca1253,,18 35 36 37 51 65 66 70 71 84 116 117 145 164 165 185 189 200 201 202 204 226 227 229 238 253 254 257 258 269 298,family,,families
+tuca1253,Tucanoan,,,,tuca1253,,18 35 36 37 51 65 66 70 71 84 116 117 145 164 165 185 189 200 201 202 204 219 226 227 229 238 253 254 257 258 269 298,family,,families
 tupi1275,Tupian,,,,tupi1275,,8 10 13 22 24 25 28 62 63 72 80 82 83 85 86 107 108 120 121 127 128 146 161 171 190 193 196 205 218 228 230 235 236 241 243 255 256 264 265 278 279 280 296 299 300 301,family,,families
 yano1268,Yanomamic,,,,yano1268,,178 217 291,family,,families
 zamu1243,Zamucoan,,,,zamu1243,,30,family,,families

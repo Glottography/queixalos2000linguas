@@ -7,6 +7,7 @@
     ],
     "dc:bibliographicCitation": "Queixalos, Francisco & Odile Renault-Lescure. 2000. As l\u00ednguas amaz\u00f4nicas hoje. In  Queixal\u00f3s, Francisco and Renault-Lescure, Odile (eds.) S\u00e3o Paulo: IRD/Instituto Socioambiental/MPEG. 432pp.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Generic",
+    "dc:description": "This dataset provides non-overlapping, contemporary language ranges for the Northern part of South America derived from the maps in Queixalos and Renault-Lescure 2009.",
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:source": "sources.bib",
     "dc:spatial": "westlimit=-79.0; southlimit=-22.2; eastlimit=-44.7; northlimit=5.9",
@@ -16,13 +17,13 @@
         {
             "rdf:about": "https://github.com/Glottography/queixalos2000linguas",
             "rdf:type": "prov:Entity",
-            "dc:created": "4bbca19",
+            "dc:created": "b8c2fb9",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.1",
+            "dc:created": "v5.2",
             "dc:title": "Glottolog"
         }
     ],
@@ -259,6 +260,15 @@
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
                         "valueUrl": "http://glottolog.org/resource/languoid/id/{Glottocode}",
                         "name": "Glottocode"
+                    },
+                    {
+                        "dc:description": "The time period to which the feature relates, specified as year AD or with the keyword 'traditional', meaning either the time of contact with European maritime powers or period when an ancient language was spoken.",
+                        "datatype": {
+                            "base": "string",
+                            "format": "[0-9]{3,4}|traditional"
+                        },
+                        "propertyUrl": "http://purl.org/dc/terms/temporal",
+                        "name": "Year"
                     },
                     {
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
