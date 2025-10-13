@@ -1,4 +1,17 @@
 ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Feature_IDs,Glottolog_Languoid_Level,Family,Speaker_Area
+achu1249,Achuar,,,,achu1249,,2,dialect,Chicham,dialects
+bana1307,Banawa,,-6.741,-64.89624,bana1307,,32,dialect,Arawan,dialects
+cane1243,Canela-Krahô,,,,cane1243,,131,dialect,Nuclear-Macro-Je,dialects
+cent2420,Central Timbira,,,,cent2420,,134,dialect,Nuclear-Macro-Je,dialects
+guaj1255,Guajajára,,-4.69461,-45.7081,guaj1255,,83 241,dialect,Tupian,dialects
+inga1250,Ingariko,,,,inga1250,,95,dialect,Cariban,dialects
+kaya1331,Txucarramãe,,,,kaya1331,,160,dialect,Nuclear-Macro-Je,dialects
+krah1246,Krahô,,-8.01172,-47.5774,krah1246,,131,dialect,Nuclear-Macro-Je,dialects
+krik1239,Pykobjê,,-5.94252,-46.7504,krik1239,,134,dialect,Nuclear-Macro-Je,dialects
+nahu1343,Nahukuá,,,,nahu1343,,175,dialect,Cariban,dialects
+ship1255,Shipibo,,,,ship1255,,222,dialect,Pano-Tacanan,dialects
+taul1252,Taurepang-Arekuna,,,,taul1252,,239,dialect,Cariban,dialects
+zoro1244,Zoró,,-10.173,-59.456,zoro1244,,299,dialect,Tupian,dialects
 achu1248,Achuar-Shiwiar,,-2.82646,-77.2641,achu1248,,2,language,Chicham,languages
 agua1253,Aguaruna,,-5.30044,-77.9218,agua1253,,4,language,Chicham,languages
 aika1237,Aikanã,,-12.6695,-60.5353,aika1237,,5,language,,languages
